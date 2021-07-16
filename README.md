@@ -1,8 +1,8 @@
 # Machine-Learning-Algorithms
-I used Ridge Regresion, Support Vector Machine (SVM), and Neural Network models on different datasets. I implemented a "by hand" version of every algorithm and then implemented the same algorithm using the Scikit library to compare results.
+I used Ridge Regression, Support Vector Machine (SVM), and Neural Network models on different datasets. I implemented a "by hand" version of every algorithm and then implemented the same algorithm using the Scikit library to compare results.
 ## Results
 
-### Ridge Regresion
+### Ridge Regression
 
 | Dataset | Implementation | Accuracy |
 |  :-- | :--- | :--- |
